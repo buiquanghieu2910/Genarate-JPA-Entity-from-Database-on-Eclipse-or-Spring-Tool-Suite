@@ -46,6 +46,4 @@ Cuối cùng chọn Finsh để quá trình genarate được diễn ra
 ```
 ![](https://i.imgur.com/BjFaquQ.png)
 
-```markdown
-Chúc các bạn thành công !!!
-```
+***Chúc các bạn thành công !!!***
